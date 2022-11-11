@@ -375,5 +375,44 @@
                 }
             ]
 		}
+	},
+	{	"icao": "ENRY",
+		"sids": {
+			"BAKIV": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"TITUX": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"LUTOT": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ELKOP": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"MOGLU": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"VATEX": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"ELVOM": [
+				{
+					"direction": "ODD"
+				}
+			]
+		}
 	}
 ]
