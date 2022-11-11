@@ -52,13 +52,15 @@
 			"TUXIL": [
 				{
 					"airways": [
-						"ATNAK"
+						"ATNAK",
+						"LAPOT"
 					],
 					"direction": "EVEN"
 				},
 				{
 					"airways": [
-						"BIVKI"
+						"BIVKI",
+						"MITSI"
 					],
 					"direction": "ODD"
 				},
