@@ -51,16 +51,19 @@
 			],
 			"TUXIL": [
 				{
-					"destinations": [
-						"EK",
-						"EHGG",
-						"EDW",
-						"EDG"
+					"airways": [
+						"ATNAK"
+					],
+					"direction": "EVEN"
+				},
+				{
+					"airways": [
+						"BIVKI"
 					],
 					"direction": "ODD"
 				},
 				{
-					"direction": "EVEN"
+					"direction": "ANY"
 				}
 			],
 			"ADADI": [
