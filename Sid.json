@@ -1,0 +1,384 @@
+[
+    {
+        "icao": "ENBR",
+        "sids": {
+            "BEGOD": [
+                {
+                    "direction": "ODD",
+                    "min_fl": 20,
+                    "max_fl": 175,
+                    "destinations": [
+                        "ENZV",
+                        "ENHD"
+                    ]
+                }
+            ],
+            "GOKAB": [
+                {
+                    "direction": "ODD"
+                }
+            ],
+            "EPOTU": [
+                {
+                    "direction": "EVEN",
+                    "destinations": [
+                        "EG"
+                    ]
+                }
+            ],
+            "REKLI": [
+                {
+                    "destinations": [
+                        "B",
+                        "C",
+                        "K",
+                        "EKVG"
+                    ],
+                    "direction": "EVEN"
+                }
+            ],
+            "OLDAS": [
+                {
+                    "direction": "ODD"
+                }
+            ],
+            "INTUM": [
+                {
+                    "direction": "ODD"
+                }
+            ],
+            "TINIG": [
+                {
+                    "direction": "ODD"
+                }
+            ],
+            "TUXIL": [
+                {
+                    "destinations": [
+                        "EG",
+                        "EHRD",
+                        "EB"
+                    ],
+                    "direction": "EVEN"
+                },
+                {
+                    "destinations": [
+                        "EK",
+						"EHGG",
+						"EDW",
+						"EDG"
+                    ],
+                    "direction": "ODD"
+                },
+                {
+                    "direction": "ANY"
+                }
+            ],
+            "ADADI": [
+                {
+                    "min_fl": 20,
+                    "direction": "EVEN"
+                }
+            ]
+        }
+	
+    },
+	{	"icao": "ENVA",
+		"sids": {
+			"EVNEN": [
+				{
+                    "destinations": [
+                        "ENGM"
+                    ],
+                    "direction": "ODD"
+                },	
+				{
+					"direction": "ODD"
+				}
+			],
+			"GOGOX": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"NIGEX": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"OSMUM": [
+				{
+					"direction": "EVEN"
+				}
+			],	
+			"SOLKA": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"UTUNA": [
+				{
+					"direction": "EVEN"
+				}
+			]
+		}		
+	},
+	{	"icao": "ENGM",
+		"sids": {
+			"ATLAP": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"EVTOG": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"VIPPA": [
+				{
+                    "destinations": [
+                        "EKCH",
+                        "EDD"
+                    ],
+                    "direction": "ODD"
+                },
+                {
+                    "direction": "EVEN"
+                }
+			],
+			"RIBBE": [
+				{
+					"direction": "ODD"
+				},
+				{
+                    "destinations": [
+                        "ENVA"
+                    ],
+                    "direction": "EVEN"
+                }	
+			],	
+			"MASEV": [
+				{
+					"direction": "ODD"
+				}
+			],	
+			"OKSAT": [
+				{
+					"direction": "ODD"
+				}
+			]
+		}
+	},
+	{	"icao": "ENZV",
+		"sids": {
+			"ALUVA": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"LAPOT": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"RUMOG": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ODINU": [
+				{
+					"direction": "ODD"
+				}
+			],	
+			"UPLEV": [
+				{
+					"direction": "ODD"
+				}
+			],	
+			"PEVEB": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"GEDLU": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"BIVKI": [
+				{
+					"direction": "ODD"
+				}
+			]
+		}
+	},
+	{	"icao": "ENAL",
+		"sids": {
+			"NELSU": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"GIGIR": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"TUTOP": [
+				{
+					"direction": "EVEN"
+				}
+			]
+		}
+	},
+	{	"icao": "ENTC",
+		"sids": {
+			"AMIMO": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"BDF": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ERPUG": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"EVANI": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"GILGU": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"LITPI": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"LOMVI": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"MOKAX": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"ROSKO": [
+				{
+					"direction": "EVEN"
+				}
+			]
+		}
+	},
+	{	"icao": "ENBO",
+		"sids": {
+			"ABTAM": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"BNN": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"DISMU": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"EMDAM": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"IBVIS": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"PIKOX": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"STM": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"PENNO": [
+				{
+					"direction": "ODD"
+				}
+			]
+		}
+	},
+	{	"icao": "ENCN",
+		"sids": {
+			"VAVET": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"TIPSO": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"BEDIK": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"RIVEX": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"LANTI": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"AMSEV": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"RASVI": [
+                {
+                    "destinations": [
+                        "Ek",
+                        "EDDH",
+                        "EDDP"
+                    ],
+                    "direction": "ODD"
+                },
+                {
+                    "destinations": [
+                        "EDF",
+						"EDDF",
+						"EDG"
+                    ],
+                    "direction": "EVEN"
+                },
+                {
+                    "direction": "ANY"
+                }
+            ]
+		}
+	}
+]
