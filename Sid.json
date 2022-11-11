@@ -20,10 +20,7 @@
             ],
             "EPOTU": [
                 {
-                    "direction": "EVEN",
-                    "destinations": [
-                        "EG"
-                    ]
+                    "direction": "EVEN"
                 }
             ],
             "REKLI": [
@@ -54,13 +51,12 @@
             ],
             "TUXIL": [
                 {
-                    "destinations": [
-                        "EG",
-                        "EHRD",
-                        "EB"
-                    ],
-                    "direction": "EVEN"
-                },
+					"sids":[
+						"ATNAK"
+					],
+						"direction": "EVEN"
+					
+				},
                 {
                     "destinations": [
                         "EK",
@@ -71,7 +67,7 @@
                     "direction": "ODD"
                 },
                 {
-                    "direction": "ANY"
+                    "direction": "ODD"
                 }
             ],
             "ADADI": [
