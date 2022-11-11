@@ -1,92 +1,92 @@
 [
-    {
-        "icao": "ENBR",
-        "sids": {
-            "BEGOD": [
-                {
-                    "direction": "ODD",
-                    "min_fl": 20,
-                    "max_fl": 175,
-                    "destinations": [
-                        "ENZV",
-                        "ENHD"
-                    ]
-                }
-            ],
-            "GOKAB": [
-                {
-                    "direction": "ODD"
-                }
-            ],
-            "EPOTU": [
-                {
-                    "direction": "EVEN"
-                }
-            ],
-            "REKLI": [
-                {
-                    "destinations": [
-                        "B",
-                        "C",
-                        "K",
-                        "EKVG"
-                    ],
-                    "direction": "EVEN"
-                }
-            ],
-            "OLDAS": [
-                {
-                    "direction": "ODD"
-                }
-            ],
-            "INTUM": [
-                {
-                    "direction": "ODD"
-                }
-            ],
-            "TINIG": [
-                {
-                    "direction": "ODD"
-                }
-            ],
-            "TUXIL": [
-                {
-					"sids":[
+	{
+		"icao": "ENBR",
+		"sids": {
+			"BEGOD": [
+				{
+					"direction": "ODD",
+					"min_fl": 20,
+					"max_fl": 175,
+					"destinations": [
+						"ENZV",
+						"ENHD"
+					]
+				}
+			],
+			"GOKAB": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"EPOTU": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"REKLI": [
+				{
+					"destinations": [
+						"B",
+						"C",
+						"K",
+						"EKVG"
+					],
+					"direction": "EVEN"
+				}
+			],
+			"OLDAS": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"INTUM": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"TINIG": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"TUXIL": [
+				{
+					"sids": [
 						"ATNAK"
 					],
-						"direction": "EVEN"
+					"direction": "EVEN"
 				},
-                {
-                    "destinations": [
-                        "EK",
+				{
+					"destinations": [
+						"EK",
 						"EHGG",
 						"EDW",
 						"EDG"
-                    ],
-                    "direction": "ODD"
-                },
-                {
-                    "direction": "ODD"
-                }
-            ],
-            "ADADI": [
-                {
-                    "min_fl": 20,
-                    "direction": "EVEN"
-                }
-            ]
-        }
-	
-    },
-	{	"icao": "ENVA",
+					],
+					"direction": "ODD"
+				},
+				{
+					"direction": "ODD"
+				}
+			],
+			"ADADI": [
+				{
+					"min_fl": 20,
+					"direction": "EVEN"
+				}
+			]
+		}
+	},
+	{
+		"icao": "ENVA",
 		"sids": {
 			"EVNEN": [
 				{
-                    "destinations": [
-                        "ENGM"
-                    ],
-                    "direction": "ODD"
-                },	
+					"destinations": [
+						"ENGM"
+					],
+					"direction": "ODD"
+				},
 				{
 					"direction": "ODD"
 				}
@@ -105,7 +105,7 @@
 				{
 					"direction": "EVEN"
 				}
-			],	
+			],
 			"SOLKA": [
 				{
 					"direction": "ODD"
@@ -116,9 +116,10 @@
 					"direction": "EVEN"
 				}
 			]
-		}		
+		}
 	},
-	{	"icao": "ENGM",
+	{
+		"icao": "ENGM",
 		"sids": {
 			"ATLAP": [
 				{
@@ -132,32 +133,32 @@
 			],
 			"VIPPA": [
 				{
-                    "destinations": [
-                        "EKCH",
-                        "EDD"
-                    ],
-                    "direction": "ODD"
-                },
-                {
-                    "direction": "EVEN"
-                }
+					"destinations": [
+						"EKCH",
+						"EDD"
+					],
+					"direction": "ODD"
+				},
+				{
+					"direction": "EVEN"
+				}
 			],
 			"RIBBE": [
 				{
 					"direction": "ODD"
 				},
 				{
-                    "destinations": [
-                        "ENVA"
-                    ],
-                    "direction": "EVEN"
-                }	
-			],	
+					"destinations": [
+						"ENVA"
+					],
+					"direction": "EVEN"
+				}
+			],
 			"MASEV": [
 				{
 					"direction": "ODD"
 				}
-			],	
+			],
 			"OKSAT": [
 				{
 					"direction": "ODD"
@@ -165,7 +166,8 @@
 			]
 		}
 	},
-	{	"icao": "ENZV",
+	{
+		"icao": "ENZV",
 		"sids": {
 			"ALUVA": [
 				{
@@ -186,12 +188,12 @@
 				{
 					"direction": "ODD"
 				}
-			],	
+			],
 			"UPLEV": [
 				{
 					"direction": "ODD"
 				}
-			],	
+			],
 			"PEVEB": [
 				{
 					"direction": "ODD"
@@ -209,7 +211,8 @@
 			]
 		}
 	},
-	{	"icao": "ENAL",
+	{
+		"icao": "ENAL",
 		"sids": {
 			"NELSU": [
 				{
@@ -228,7 +231,8 @@
 			]
 		}
 	},
-	{	"icao": "ENTC",
+	{
+		"icao": "ENTC",
 		"sids": {
 			"AMIMO": [
 				{
@@ -277,7 +281,8 @@
 			]
 		}
 	},
-	{	"icao": "ENBO",
+	{
+		"icao": "ENBO",
 		"sids": {
 			"ABTAM": [
 				{
@@ -321,7 +326,8 @@
 			]
 		}
 	},
-	{	"icao": "ENCN",
+	{
+		"icao": "ENCN",
 		"sids": {
 			"VAVET": [
 				{
@@ -354,29 +360,30 @@
 				}
 			],
 			"RASVI": [
-                {
-                    "destinations": [
-                        "Ek",
-                        "EDDH",
-                        "EDDP"
-                    ],
-                    "direction": "ODD"
-                },
-                {
-                    "destinations": [
-                        "EDF",
+				{
+					"destinations": [
+						"Ek",
+						"EDDH",
+						"EDDP"
+					],
+					"direction": "ODD"
+				},
+				{
+					"destinations": [
+						"EDF",
 						"EDDF",
 						"EDG"
-                    ],
-                    "direction": "EVEN"
-                },
-                {
-                    "direction": "ANY"
-                }
-            ]
+					],
+					"direction": "EVEN"
+				},
+				{
+					"direction": "ANY"
+				}
+			]
 		}
 	},
-	{	"icao": "ENRY",
+	{
+		"icao": "ENRY",
 		"sids": {
 			"BAKIV": [
 				{
