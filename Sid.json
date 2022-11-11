@@ -51,12 +51,6 @@
 			],
 			"TUXIL": [
 				{
-					"sids": [
-						"ATNAK"
-					],
-					"direction": "EVEN"
-				},
-				{
 					"destinations": [
 						"EK",
 						"EHGG",
@@ -66,7 +60,7 @@
 					"direction": "ODD"
 				},
 				{
-					"direction": "ODD"
+					"direction": "EVEN"
 				}
 			],
 			"ADADI": [
