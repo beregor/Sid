@@ -25,12 +25,6 @@
 			],
 			"REKLI": [
 				{
-					"destinations": [
-						"B",
-						"C",
-						"K",
-						"EKVG"
-					],
 					"direction": "EVEN"
 				}
 			],
@@ -53,14 +47,17 @@
 				{
 					"airways": [
 						"ATNAK",
-						"LAPOT"
+						"LAPOT",
+						"ALOTI"
 					],
 					"direction": "EVEN"
 				},
 				{
 					"airways": [
 						"BIVKI",
-						"MITSI"
+						"MITSI",
+						"TUKMU",
+						"RIVEX"
 					],
 					"direction": "ODD"
 				},
@@ -84,7 +81,7 @@
 					"destinations": [
 						"ENGM"
 					],
-					"direction": "ODD"
+					"direction": "EVEN"
 				},
 				{
 					"direction": "ODD"
@@ -150,7 +147,7 @@
 					"destinations": [
 						"ENVA"
 					],
-					"direction": "EVEN"
+					"direction": "ODD"
 				}
 			],
 			"MASEV": [
