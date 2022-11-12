@@ -2,6 +2,11 @@
 	{
 		"icao": "ENBR",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"BEGOD": [
 				{
 					"direction": "ODD",
@@ -57,7 +62,8 @@
 						"BIVKI",
 						"MITSI",
 						"TUKMU",
-						"RIVEX"
+						"RIVEX",
+						"PEVEB"
 					],
 					"direction": "ODD"
 				},
@@ -76,6 +82,11 @@
 	{
 		"icao": "ENVA",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"EVNEN": [
 				{
 					"destinations": [
@@ -117,6 +128,11 @@
 	{
 		"icao": "ENGM",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"ATLAP": [
 				{
 					"direction": "EVEN"
@@ -165,6 +181,11 @@
 	{
 		"icao": "ENZV",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"ALUVA": [
 				{
 					"direction": "EVEN"
@@ -210,6 +231,11 @@
 	{
 		"icao": "ENAL",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"NELSU": [
 				{
 					"direction": "ODD"
@@ -230,6 +256,11 @@
 	{
 		"icao": "ENTC",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"AMIMO": [
 				{
 					"direction": "EVEN"
@@ -280,6 +311,11 @@
 	{
 		"icao": "ENBO",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"ABTAM": [
 				{
 					"direction": "EVEN"
@@ -325,6 +361,11 @@
 	{
 		"icao": "ENCN",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"VAVET": [
 				{
 					"direction": "ODD"
@@ -381,6 +422,11 @@
 	{
 		"icao": "ENRY",
 		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
 			"BAKIV": [
 				{
 					"direction": "EVEN"
