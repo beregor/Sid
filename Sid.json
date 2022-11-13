@@ -36,6 +36,12 @@
 			"OLDAS": [
 				{
 					"direction": "ODD"
+				},
+				{
+					"destinations": [
+						"BI"
+					],
+					"direction": "EVEN"
 				}
 			],
 			"INTUM": [
@@ -463,5 +469,50 @@
 				}
 			]
 		}
-	}
+	},
+	{
+		"icao": "ENTO",
+		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"BAKIV": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"TITUX": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"LUTOT": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ELKOP": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"BOMGU": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"VATEX": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"ELVOM": [
+				{
+					"direction": "ODD"
+				}
+			]
+		}
+	}	
 ]
