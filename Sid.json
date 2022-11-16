@@ -194,8 +194,16 @@
 			],
 			"ALUVA": [
 				{
+					"direction": "EVEN",
+					"min_fl": 20,
+					"max_fl": 175,
+					"destinations": [
+						"ENBR"
+					]
+				},
+				{
 					"direction": "EVEN"
-				}
+				}	
 			],
 			"LAPOT": [
 				{
