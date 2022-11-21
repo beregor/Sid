@@ -126,6 +126,12 @@
 			],
 			"UTUNA": [
 				{
+				"destinations": [
+					"ENGM"
+				],
+				"direction": "EVEN"
+				},
+				{
 					"direction": "EVEN"
 				}
 			]
