@@ -80,8 +80,8 @@
 			],
 			"ADADI": [
 				{
-					"min_fl": 20,
-					"direction": "EVEN"
+					"min_fl": 20
+					
 				}
 			]
 		}
@@ -420,7 +420,7 @@
 			"RASVI": [
 				{
 					"destinations": [
-						"Ek",
+						"EK",
 						"EDDH",
 						"EDDP"
 					],
