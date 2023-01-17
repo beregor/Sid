@@ -530,5 +530,60 @@
 				}
 			]
 		}
+	},
+	{	
+		"icao": "ENHD",
+		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"BIVKI": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"GENVU": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ODINU": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"PEVEB": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"RUMOG": [
+				{
+					"airways": [
+						"ATNAK",
+						"LAPOT",
+						"ALOTI"
+					],
+					"direction": "EVEN"
+				},
+				{
+					"airways": [
+						"BIVKI",
+						"MITSI",
+						"TUKMU",
+						"RIVEX",
+						"PEVEB",
+						"AAL",
+						"ELSOB"
+					],
+					"direction": "ODD"
+				},
+				{
+					"direction": "ANY"
+				}
+			]
+		}	
 	}	
 ]
