@@ -546,6 +546,12 @@
 			],
 			"GENVU": [
 				{
+					"airways": [
+						"OLDAS"
+					],
+					"direction":"ODD"
+				},
+				{
 					"direction": "EVEN"
 				}
 			],
