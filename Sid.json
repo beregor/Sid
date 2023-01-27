@@ -35,13 +35,19 @@
 			],
 			"OLDAS": [
 				{
-					"direction": "ODD"
-				},
-				{
 					"destinations": [
 						"BI"
 					],
 					"direction": "EVEN"
+				},
+				{
+					"destinations":	[
+						"ENFL"
+					],
+					"direction":"ANY"
+				},
+				{
+					"direction": "ODD"
 				}
 			],
 			"INTUM": [
