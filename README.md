@@ -3,3 +3,8 @@
 # NB! ENBR TUXIL departure the plugin does NOT check if ZOL is filed!
 # NB! On Omni departures the plugin does NOT check flight levels
 # Most airports are covered, if you find an error please let me know.
+#
+# Installation:
+# Download the file and replace the sid.json file inside you plugins folder withing EuroScope.
+#
+# After installing use command .vfpc reload 
