@@ -5,6 +5,6 @@
 # Most airports are covered, if you find an error please let me know.
 #
 # Installation:
-# Download the file and replace the sid.json file inside you plugins folder withing EuroScope.
+# Download the file and replace the sid.json file inside you plugins folder within EuroScope.
 #
 # After installing use command .vfpc reload 
