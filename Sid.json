@@ -534,6 +534,12 @@
 			],
 			"ELVOM": [
 				{
+					"airways": [
+						"EVTOG"
+					],
+					"direction": "EVEN"
+				},
+				{
 					"direction": "ODD"
 				}
 			]
