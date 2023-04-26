@@ -155,6 +155,60 @@
 					"direction": "ANY"
 				}
 			],
+			"VEMIN": [
+				{
+					"suffix":"5A",
+					"engine":"TP",
+					"airways": [
+						"ATLAP",
+						"EVTOG",
+						"VIPPA"
+					],
+					"direction": "EVEN"
+				},
+				{
+					"suffix":"1D",
+					"engine":"TP",
+					"airways": [
+						"ATLAP",
+						"EVTOG",
+						"VIPPA"
+					],
+					"direction": "EVEN"
+				},
+				{
+					"suffix":"1D",
+					"engine":"TP",
+					"airways": [
+						"RIBBE"
+					],
+					"direction": "ODD"
+				},
+				{
+					"destinations": [
+						"ENVA"
+					],
+					"direction": "ODD"
+				}
+			],
+			"VIBUK": [
+				{
+					"suffix":"1C",
+					"engine":"TP",
+					"airways": [
+						"MASEV",
+						"OKSAT",
+						"RIBBE"
+					],
+					"direction": "ODD"
+				},
+				{
+					"destinations": [
+						"ENVA"
+					],
+					"direction": "ODD"
+				}
+			],				
 			"ATLAP": [
 				{
 					"direction": "EVEN"
