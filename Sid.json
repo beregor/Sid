@@ -222,10 +222,15 @@
 			"VIPPA": [
 				{
 					"destinations": [
-						"EKCH",
-						"EDD"
+						"EKCH"
 					],
 					"direction": "ODD"
+				},
+				{
+					"airways": [
+						"ARTOR"
+					],
+					"direction": "EVEN" 
 				},
 				{
 					"direction": "EVEN"
