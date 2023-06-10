@@ -150,11 +150,31 @@
 	{
 		"icao": "ENGM",
 		"sids": {
-			"OMNI": [
+			"T235A40": [
 				{
 					"direction": "ANY"
 				}
 			],
+			"T235A70": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"T290A40": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"T100A40": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"T185A70": [
+				{
+					"direction": "ANY"
+				}
+			],			
 			"VEMIN": [
 				{
 					"suffix":"5A",
