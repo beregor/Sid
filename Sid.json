@@ -152,7 +152,8 @@
 		"sids": {
 			"T235A40": [
 				{
-					"direction": "ANY"
+					"direction": "ANY",
+					"engine": "TP"
 				}
 			],
 			"T235A70": [
@@ -174,7 +175,7 @@
 				{
 					"direction": "ANY"
 				}
-			],			
+			],
 			"VEMIN": [
 				{
 					"suffix":"5A",
@@ -213,7 +214,7 @@
 			],
 			"VIBUK": [
 				{
-					"suffix":"1C",
+					"suffix":"6C",
 					"engine":"TP",
 					"airways": [
 						"MASEV",
@@ -251,6 +252,12 @@
 						"ARTOR"
 					],
 					"direction": "EVEN" 
+				},
+				{
+					"airways": [
+						"GITER"
+					],
+					"direction": "ODD" 
 				},
 				{
 					"direction": "EVEN"
