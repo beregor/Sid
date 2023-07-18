@@ -178,7 +178,14 @@
 			],
 			"VEMIN": [
 				{
-					"suffix":"5A",
+					"airways": [
+						"ATLAP",
+						"EVTOG",
+						"VIPPA"
+					],
+					"direction": "EVEN"
+				},
+				{
 					"engine":"TP",
 					"airways": [
 						"ATLAP",
@@ -188,17 +195,6 @@
 					"direction": "EVEN"
 				},
 				{
-					"suffix":"1D",
-					"engine":"TP",
-					"airways": [
-						"ATLAP",
-						"EVTOG",
-						"VIPPA"
-					],
-					"direction": "EVEN"
-				},
-				{
-					"suffix":"1D",
 					"engine":"TP",
 					"airways": [
 						"RIBBE"
@@ -214,7 +210,6 @@
 			],
 			"VIBUK": [
 				{
-					"suffix":"6C",
 					"engine":"TP",
 					"airways": [
 						"MASEV",
