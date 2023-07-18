@@ -249,13 +249,8 @@
 				},
 				{
 					"airways": [
-						"ARTOR"
-					],
-					"direction": "EVEN" 
-				},
-				{
-					"airways": [
-						"GITER"
+						"GITER",
+						"NIKDA"
 					],
 					"direction": "ODD" 
 				},
