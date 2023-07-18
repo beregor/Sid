@@ -163,12 +163,14 @@
 			],
 			"T290A40": [
 				{
-					"direction": "ANY"
+					"direction": "ANY",
+					"engine":"TP"
 				}
 			],
 			"T100A40": [
 				{
-					"direction": "ANY"
+					"direction": "ANY",
+					"engine":"TP"
 				}
 			],
 			"T185A70": [
