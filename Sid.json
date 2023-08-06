@@ -180,6 +180,7 @@
 			],
 			"VEMIN": [
 				{
+					"engine":"TP",
 					"airways": [
 						"ATLAP",
 						"EVTOG",
@@ -221,6 +222,7 @@
 					"direction": "ODD"
 				},
 				{
+					"engine":"TP",
 					"destinations": [
 						"ENVA"
 					],
@@ -229,22 +231,26 @@
 			],				
 			"ATLAP": [
 				{
+					"engine":"J",
 					"direction": "EVEN"
 				}
 			],
 			"EVTOG": [
 				{
+					"engine":"J",
 					"direction": "EVEN"
 				}
 			],
 			"VIPPA": [
 				{
+					"engine":"J",
 					"destinations": [
 						"EKCH"
 					],
 					"direction": "ODD"
 				},
 				{
+					"engine":"J",
 					"airways": [
 						"GITER",
 						"NIKDA",
@@ -253,6 +259,7 @@
 					"direction": "ODD" 
 				},
 				{
+					"engine":"J",
 					"direction": "EVEN"
 				}
 			],
