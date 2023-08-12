@@ -253,6 +253,7 @@
 			],
 			"VIPPA": [
 				{
+					"suffix":"6D",
 					"engine":"J",
 					"destinations": [
 						"EKCH"
@@ -260,6 +261,7 @@
 					"direction": "ODD"
 				},
 				{
+					"suffix":"6D",
 					"engine":"J",
 					"airways": [
 						"GITER",
@@ -269,7 +271,28 @@
 					"direction": "ODD" 
 				},
 				{
+					"suffix":"6D",
 					"engine":"J",
+					"direction": "EVEN"
+				},
+				{
+					"suffix":"1C",
+					"destinations": [
+						"EKCH"
+					],
+					"direction": "ODD"
+				},
+				{
+					"suffix":"1C",
+					"airways": [
+						"GITER",
+						"NIKDA",
+						"SONAL"
+					],
+					"direction": "ODD" 
+				},
+				{
+					"suffix":"1C",
 					"direction": "EVEN"
 				}
 			],
