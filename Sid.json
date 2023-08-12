@@ -153,7 +153,10 @@
 			"T235A40": [
 				{
 					"direction": "ANY",
-					"engine": "TP"
+					"engine": [
+						"T",
+						"P"
+					]
 				}
 			],
 			"T235A70": [
@@ -164,13 +167,19 @@
 			"T290A40": [
 				{
 					"direction": "ANY",
-					"engine":"TP"
+					"engine": [
+						"T",
+						"P"
+					]
 				}
 			],
 			"T100A40": [
 				{
 					"direction": "ANY",
-					"engine":"TP"
+					"engine": [
+						"T",
+						"P"
+					]
 				}
 			],
 			"T185A70": [
@@ -180,7 +189,10 @@
 			],
 			"VEMIN": [
 				{
-					"engine":"TP",
+					"engine": [
+						"T",
+						"P"
+					],
 					"airways": [
 						"ATLAP",
 						"EVTOG",
@@ -189,16 +201,10 @@
 					"direction": "EVEN"
 				},
 				{
-					"engine":"TP",
-					"airways": [
-						"ATLAP",
-						"EVTOG",
-						"VIPPA"
+					"engine": [
+						"T",
+						"P"
 					],
-					"direction": "EVEN"
-				},
-				{
-					"engine":"TP",
 					"airways": [
 						"RIBBE"
 					],
@@ -213,7 +219,10 @@
 			],
 			"VIBUK": [
 				{
-					"engine":"TP",
+					"engine": [
+						"T",
+						"P"
+					],
 					"airways": [
 						"MASEV",
 						"OKSAT",
@@ -222,7 +231,10 @@
 					"direction": "ODD"
 				},
 				{
-					"engine":"TP",
+					"engine": [
+						"T",
+						"P"
+					],
 					"destinations": [
 						"ENVA"
 					],
