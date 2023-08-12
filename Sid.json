@@ -237,8 +237,13 @@
 			],
 			"EVTOG": [
 				{
+					"suffix":"7D",
 					"engine":"J",
 					"direction": "EVEN"
+				},
+				{
+					"suffix":"3C",
+					"direction":"EVEN"
 				}
 			],
 			"VIPPA": [
