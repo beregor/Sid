@@ -12,3 +12,6 @@
 # If you using latest ES, it should be in: "C:\Users\ (username) \AppData\Roaming\EuroScope\ENOR\Plugins"
 # If using older versions it is: "Documents\EuroScope\ENOR\Plugins"
 # After installing use command .vfpc reload 
+#
+# Known Bugs:
+# Not all departures are corrected regarding prop/jet, its a work in progress.
