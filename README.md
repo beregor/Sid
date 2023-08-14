@@ -11,4 +11,4 @@
 # After installing use command .vfpc reload 
 #
 # Known Bugs:
-# 
+#  Omni departures from ENGM show wrong values.
