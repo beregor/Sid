@@ -243,38 +243,45 @@
 			],				
 			"ATLAP": [
 				{
-					"suffix":"7D",
+					"suffix": [
+						"7D",
+						"5A"
+					],
 					"engine":"J",
 					"direction": "EVEN"
 				},
 				{
-					"suffix":"3C",
+					"suffix": [
+						"9B",
+						"3C"
+					],
 					"direction":"EVEN"
 				}
 			],
 			"EVTOG": [
 				{
-					"suffix":"7D",
+					"suffix":[
+						"5A",
+						"7D"
+					],
 					"engine":"J",
 					"direction": "EVEN"
 				},
 				{
-					"suffix":"3C",
+					"suffix": [
+						"3C",
+						"9B"
+					],
 					"direction":"EVEN"
 				}
 			],
 			"VIPPA": [
 				{
-					"suffix":"6D",
-					"engine":"J",
-					"destinations": [
-						"EKCH"
+					"suffix": [
+						"1A",
+						"6D"
 					],
-					"direction": "ODD"
-				},
-				{
-					"suffix":"6D",
-					"engine":"J",
+					"engine": "J",
 					"airways": [
 						"GITER",
 						"NIKDA",
@@ -283,20 +290,16 @@
 					"direction": "ODD" 
 				},
 				{
-					"suffix":"6D",
+					"suffix": [
+						"1A",
+						"6D"
+					],
 					"engine":"J",
 					"direction": "EVEN"
 				},
 				{
 					"suffix":"1C",
-					"destinations": [
-						"EKCH"
-					],
-					"direction": "ODD"
-				},
-				{
-					"suffix":"1C",
-					"airways": [
+					"airways":[
 						"GITER",
 						"NIKDA",
 						"SONAL"
@@ -310,23 +313,56 @@
 			],
 			"RIBBE": [
 				{
+					"suffix":[
+						"1C",
+						"6D"
+					],
+					"engine":[
+						"J"
+					],
 					"direction": "ODD"
 				},
 				{
-					"destinations": [
-						"ENVA"
+					"suffix":[
+						"1A",
+						"6B"
 					],
-					"direction": "ODD"
+					"direction":"ODD"
 				}
 			],
 			"MASEV": [
 				{
+					"suffix":[
+						"5C"
+					],
+					"engine":"J",
 					"direction": "ODD"
+				},
+				{
+					"suffix": [
+						"4A",
+						"6B",
+						"6D"
+					],
+					"direction":"ODD"
 				}
 			],
 			"OKSAT": [
 				{
+					"suffix":[
+						"1C",
+						"2C"
+					],
+					"engine":"J",
 					"direction": "ODD"
+				},
+				{
+					"suffix":[
+						"4A",
+						"6B",
+						"6D"
+					],
+					"direction":"ODD"
 				}
 			]
 		}
