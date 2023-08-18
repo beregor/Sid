@@ -161,7 +161,8 @@
 			],
 			"T235A70": [
 				{
-					"direction": "ANY"
+					"direction": "ANY",
+					"engine":"J"
 				}
 			],
 			"T290A40": [

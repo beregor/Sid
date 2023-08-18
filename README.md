@@ -12,3 +12,4 @@
 #
 # Known Bugs:
 #  Omni departures from ENGM show wrong values.
+# 01R masev departure with Prop will give error.
