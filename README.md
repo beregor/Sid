@@ -6,11 +6,18 @@
 # Most airports are covered, if you find an error please let me know.
 #
 # Installation:
+# FOR NORWAY:
 # Download the file and replace the sid.json file inside you plugins folder within EuroScope.
-# If you using latest ES, it should be in: "C:\Users\ (username) \AppData\Roaming\EuroScope\ENOR\Plugins"
-# If using older versions it is: "Documents\EuroScope\ENOR\Plugins"
+# If you using latest ES, it should be in: "C:\Users\ (username) \AppData\Roaming\EuroScope\ESAA\Plugins"
+# If using older versions it is: "Documents\EuroScope\ESAA\Plugins"
+# After installing use command .vfpc reload 
+#
+# FOR SWEDEN
+# Download the file and replace the sid.json file inside you plugins folder within EuroScope.
+# If you using latest ES, it should be in: "C:\Users\ (username) \AppData\Roaming\EuroScope\ESAA\Plugins"
+# If using older versions it is: "Documents\EuroScope\ESAA\Plugins"
 # After installing use command .vfpc reload 
 #
 # Known Bugs:
-#  Omni departures from ENGM show wrong values.
+# Omni departures from ENGM show wrong values.
 # 01R masev departure with Prop will give error.
