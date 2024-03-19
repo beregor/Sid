@@ -877,5 +877,55 @@
 				}
 			]
 		}	
-	}	
+	},
+	{
+		"icao": "ESSA",
+		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"TOVRI": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"BABAP": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"RESNA": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"KOGAV": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ARS": [
+				{
+					"direction": "EVEN"							
+				}
+			],
+			"PETEV": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"NOSLI": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"TRS": [
+				{
+					"direction": "EVEN"
+				}
+			]
+		}	
+	}		
 ]
