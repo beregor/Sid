@@ -972,5 +972,40 @@
 				}
 			]
 		}	
+	},
+	{
+		"icao": "ESNZ",
+		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"BENKA": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"ULTEX": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"OSLAV": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"NONKI": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"DIGLO": [
+				{
+					"direction": "EVEN"							
+				}
+			]
+		}	
 	}		
 ]
