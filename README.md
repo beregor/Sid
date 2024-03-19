@@ -1,5 +1,5 @@
 # This is an Norwegian/Swedish SIDs setup for EuroSscope plugin VFPC. 
-# The swedish part is still work in progress, atm only ESGG is added and might have errors
+# The swedish part is still work in progress, and not all airports is added
 # Main plugin can be downloaded from https://github.com/hpeter2/VFPC
 # NB! ENBR TUXIL departure the plugin does NOT check if ZOL is filed!
 # NB! On Omni departures the plugin does NOT check flight levels
