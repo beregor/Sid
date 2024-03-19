@@ -770,6 +770,113 @@
 				},
 				{
 					"direction": "ANY"
+				},
+				{
+					"icao": "ESGG",
+					"sids": {
+						"OMNI": [
+							{
+								"direction": "ANY"
+							}
+						],
+						"LABAN": [
+							{
+								"suffix":[
+									"4J"
+								],
+								"engine":"J",
+								"direction": "ODD"
+							}
+						],
+						"LUKAX": [
+							{
+								"direction": "ODD"
+							}
+						],
+						"SULIX": [
+							{
+								"suffix":[
+									"3J"
+								],
+								"engine":[
+									"T",
+									"P"
+								],
+								"direction": "ODD"
+							}
+						],
+						"TOPLA": [
+							{
+								"suffix":[
+									"3M"
+								],
+								"engine":"J",
+								"direction": "ODD"
+							}
+						],
+						"VADIN": [
+							{
+								"direction": "EVEN"							
+							}
+						],
+						"DETNA": [
+							{
+								"suffix":[
+									"3J"
+								],
+								"engine":"J",
+								"direction": "EVEN"
+
+							}
+						],
+						"SABAK": [
+							{
+								"suffix":[
+									"3J"
+								],
+								"engine":"J",
+								"direction": "EVEN"
+							}
+						],
+						"PEVAK": [
+							{
+								"engine":[
+									"T",
+									"P"
+								],
+								"direction": "EVEN"
+							}
+						],
+						"NEGIL": [
+							{
+								"engine":[
+									"T",
+									"P"
+								],
+								"direction": "ODD"
+							}
+						],
+						"MISVI": [
+							{
+								"engine":[
+									"T",
+									"P"
+								],
+								"direction": "EVEN"
+							}
+							
+						],
+						"SOJWI": [
+							{
+								"engine":[
+									"T",
+									"P"
+								],
+								"direction": "EVEN"
+							}
+						]
+						
+					}
 				}
 			]
 		}	
