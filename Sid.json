@@ -927,5 +927,50 @@
 				}
 			]
 		}	
+	},
+	{
+		"icao": "ESMS",
+		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"NEXIL": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"EKRAL": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"TELMO": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"SALLO": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"DISGO": [
+				{
+					"direction": "EVEN"							
+				}
+			],
+			"ERNOV": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"BABSI": [
+				{
+					"direction": "ODD"
+				}
+			]
+		}	
 	}		
 ]
