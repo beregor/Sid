@@ -1007,5 +1007,50 @@
 				}
 			]
 		}	
+	},
+	{
+		"icao": "ESSB",
+		"sids": {
+			"OMNI": [
+				{
+					"direction": "ANY"
+				}
+			],
+			"TOVRI": [
+				{
+					"direction": "ODD"
+				}
+			],
+			"RESNA": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"TRS": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"NOSLI": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"PETEV": [
+				{
+					"direction": "EVEN"							
+				}
+			],
+			"TINKA": [
+				{
+					"direction": "EVEN"
+				}
+			],
+			"ARS": [
+				{
+					"direction": "EVEN"
+				}
+			]
+		}	
 	}		
 ]
