@@ -810,6 +810,13 @@
 			],
 			"TOPLA": [
 				{
+					"airways":[
+						"NIKDA"
+					],
+					"direction":"EVEN",
+					"engine":"J"
+				},
+				{
 					"suffix":[
 						"3M"
 					],
