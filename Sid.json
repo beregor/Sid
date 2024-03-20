@@ -865,7 +865,17 @@
 						"P"
 					],
 					"direction": "EVEN"
-				}
+				},
+				{
+					"airways": [
+						"LABAN"
+					],
+					"engine":[
+						"T",
+						"P"
+					],
+					"direction": "ODD"
+				},
 			],
 			"SOJWI": [
 				{
