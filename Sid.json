@@ -860,15 +860,9 @@
 			],
 			"MISVI": [
 				{
-					"engine":[
-						"T",
-						"P"
-					],
-					"direction": "EVEN"
-				},
-				{
 					"airways": [
-						"LABAN"
+						"LABAN",
+						"TINKA"
 					],
 					"engine":[
 						"T",
@@ -876,6 +870,13 @@
 					],
 					"direction": "ODD"
 				},
+				{
+					"engine":[
+						"T",
+						"P"
+					],
+					"direction": "EVEN"
+				}
 			],
 			"SOJWI": [
 				{
