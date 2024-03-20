@@ -811,8 +811,7 @@
 			"TOPLA": [
 				{
 					"airways":[
-						"NIKDA",
-						"ERNOV"
+						"NIKDA"
 					],
 					"direction":"EVEN",
 					"engine":"J"
